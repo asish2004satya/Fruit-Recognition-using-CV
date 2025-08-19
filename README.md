@@ -3,7 +3,7 @@
 Manual fruit sorting is inefficient, inconsistent, and resource-intensive. Existing automated
 solutions are often hardware-based, costly, and rigid. A low-cost, flexible, and software-based
 approach using deep learning can provide an efficient alternative.  
-The key problems include:
+The key problems include:  
  Inconsistent classification due to human error.   
  Time-consuming and labor-intensive sorting.  
  Need for accurate and real-time fruit recognition.  
@@ -22,7 +22,7 @@ The key problems include:
 
 This project focuses on classifying fruits from images using CNNs. The classification will be performed on a dataset consisting of fruits like apple, banana, grapes,mango, and orange. The model will be trained, validated, and tested on this dataset. The implementation will be limited to software simulation without hardware integration.
  
-**# Methodology Overview**
+# **Methodology Overview**
  
 The methodology adopted for this project includes:  
 
